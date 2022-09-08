@@ -8,5 +8,7 @@ This project is a prototype of fashion model website. The purpose of the project
 
 ## Technology Stack
 
+The project was built with:
+
 + HTML
 + CSS
